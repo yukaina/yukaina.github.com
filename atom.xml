@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Yukaina Memo]]></title>
+  <link href="http://yukaina.github.com/atom.xml" rel="self"/>
+  <link href="http://yukaina.github.com/"/>
+  <updated>2012-07-11T02:07:32+09:00</updated>
+  <id>http://yukaina.github.com/</id>
+  <author>
+    <name><![CDATA[Yukaina]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
