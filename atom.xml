@@ -4,7 +4,7 @@
   <title><![CDATA[Yukaina Memo]]></title>
   <link href="http://yukaina.github.com/atom.xml" rel="self"/>
   <link href="http://yukaina.github.com/"/>
-  <updated>2012-07-11T02:51:48+09:00</updated>
+  <updated>2012-07-11T15:20:36+09:00</updated>
   <id>http://yukaina.github.com/</id>
   <author>
     <name><![CDATA[Yukaina]]></name>
@@ -12,16 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[練習]]></title>
-    <link href="http://yukaina.github.com/blog/2012/07/11/start/"/>
-    <updated>2012-07-11T02:34:00+09:00</updated>
-    <id>http://yukaina.github.com/blog/2012/07/11/start</id>
-    <content type="html"><![CDATA[<h2>練習</h2>
-
-<p>練習です。</p>
-]]></content>
-  </entry>
   
 </feed>
